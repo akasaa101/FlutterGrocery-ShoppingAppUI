@@ -1,0 +1,172 @@
+repo_name: akasaa101/FlutterGrocery-ShoppingAppUI
+report_id: '09f637fec370aecf8433a322b61d31fa'
+repo_type: Public
+timestamp: '2023-11-28T08:46:42+00:00'
+requested_by: ahkohd
+provider: github
+branch: master
+detected_tools_count: 13
+tools:
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  version: '28.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: github.com/akasaa101/FlutterGrocery-ShoppingAppUI/blob/master/android/app/build.gradle
+  detection_source: android/app/build.gradle
+  last_updated_by: Victor Aremu
+  last_updated_on: 2019-08-31 18:25:54.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source: pubspec.yaml
+  last_updated_by: Victor Aremu
+  last_updated_on: 2019-08-31 18:25:54.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source: android/app/build.gradle
+  last_updated_by: Victor Aremu
+  last_updated_on: 2019-08-31 18:25:54.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  version: '9.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: github.com/akasaa101/FlutterGrocery-ShoppingAppUI/blob/master/android/app/build.gradle
+  detection_source: android/app/build.gradle
+  last_updated_by: Victor Aremu
+  last_updated_on: 2019-08-31 18:25:54.000000000 Z
+- name: cupertino_icons
+  description: Default icons asset for Cupertino widgets based on Apple styled icons
+  package_url: https://pub.dartlang.org/cupertino_icons
+  version: 0.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/akasaa101/FlutterGrocery-ShoppingAppUI/blob/master/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Victor Aremu
+  last_updated_on: 2019-08-31 18:25:54.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/akasaa101/FlutterGrocery-ShoppingAppUI/blob/master/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Victor Aremu
+  last_updated_on: 2019-08-31 18:25:54.000000000 Z
+- name: page_transition
+  description: Flutter Page Transition Package which is the transition second page
+  package_url: https://pub.dartlang.org/page_transition
+  version: 1.1.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/akasaa101/FlutterGrocery-ShoppingAppUI/blob/master/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Victor Aremu
+  last_updated_on: 2019-08-31 18:25:54.000000000 Z
+- name: smooth_star_rating
+  description: A smooth rating bar that supports full and half rating with easy icon
+    customizability
+  package_url: https://pub.dartlang.org/smooth_star_rating
+  version: 1.0.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: github.com/akasaa101/FlutterGrocery-ShoppingAppUI/blob/master/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Victor Aremu
+  last_updated_on: 2019-08-31 18:25:54.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.12'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: github.com/akasaa101/FlutterGrocery-ShoppingAppUI/blob/master/android/app/build.gradle
+  detection_source: android/app/build.gradle
+  last_updated_by: Victor Aremu
+  last_updated_on: 2019-08-31 18:25:54.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
